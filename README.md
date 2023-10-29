@@ -65,7 +65,7 @@ the assistant will display on the console and as a speech via the speaker.
 |               |               |3.	Documentation of results & references |
 |               |               |4. Designing ppt- Phase 3 |
 |               |               |5.	Project conclusion |
-|               |  **Expected Outcome**   |Our virtual assistant will be able to  |
+| **Overall**       |  **Expected Outcome**   |Our virtual assistant will be able to  |
 |               |               |1. Open Notepad, command prompt, youtube on browser |
 |               |               |2. Play music on youtube and from system |
 |               |               |3. Search data on wikipedia |
