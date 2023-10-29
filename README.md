@@ -4,7 +4,7 @@
 
 ### Duration: 2 months (01/06/2021 – 31/07/2021)
 
-### Role: Team Leader of 3.
+### Role: Team Leader.
 
 ### Technology: NLP and AI Algorithms.
 
